@@ -52,40 +52,24 @@
   "overrides": {
     "postcss": "^8.5.12",
     "nanoid": "^3.3.18",
-    "fast-uri": "^3.1.8",
-    "undici": "^7.29.1",
-    "brace-expansion": "^1.1.21",
-    "@expo/cli": {
-      "minimatch": {
-        "brace-expansion": "^2.1.7"
-      }
+    "fast-uri": "^3.1.9",
+    "undici": "^7.30.2",
+    "node-forge": "^1.4.3",
+    "compression": "^1.8.2",
+    "shell-quote": "^1.12.0",
+    "source-map-js": "^1.2.2",
+    "glob@10": "^14.0.6",
+    "sucrase": {
+      "glob": "^14.0.6"
     },
-    "@expo/fingerprint": {
-      "minimatch": {
-        "brace-expansion": "^2.1.7"
-      }
-    },
-    "@expo/metro-config": {
-      "minimatch": {
-        "brace-expansion": "^2.1.7"
-      }
-    },
-    "@typescript-eslint/typescript-estree": {
-      "minimatch": {
-        "brace-expansion": "^2.1.7"
-      }
-    },
-    "glob": {
-      "minimatch": {
-        "brace-expansion": "^2.1.7"
-      }
-    },
+    "minimatch@9": "^11.0.8",
+    "brace-expansion@1": "^1.1.21",
     "plist": {
       "@xmldom/xmldom": "^0.9.12"
     },
     "@xmldom/xmldom": "^0.8.14",
     "@humanfs/node": "^0.16.8",
-    "decode-uri-component": "^0.5.0",
+    "decode-uri-component": "^0.5.1",
     "uuid": "^11.1.1",
     "js-yaml": "^3.15.2",
     "@eslint/eslintrc": {
